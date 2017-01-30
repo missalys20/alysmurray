@@ -1,1 +1,28 @@
-theme: jekyll-theme-cayman
+title: Alys Murray
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: http://alysmurray.me/
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: missalys20
+   twitter: alysmurr
+   facebook: alys.murray
+   email: hello@alysmurray.me
+
+# google_analytics: "UA-58263416-1"
