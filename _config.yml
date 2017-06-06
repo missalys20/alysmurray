@@ -14,10 +14,13 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+ - title: Books
+   url: /books
  - title: About
    url: /about
  - title: Contact
    url: /contact
+
 
 social:
    github: missalys20
