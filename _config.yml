@@ -1,5 +1,5 @@
 title: Alys Murray
-description: Welcome to my webstie
+description: Welcome to my website
 
 url: http://alysmurray.me/
 baseurl: ""
@@ -23,8 +23,8 @@ navigation:
 
 
 social:
-     twitter: alysmurr
+   twitter: alysmurr
    facebook: alys.murray
    email: hello@alysmurray.me
 
-# google_analytics: "UA-58263416-1"
+google_analytics: "UA-100893981-1"
