@@ -1,5 +1,5 @@
 title: Alys Murray
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+description: Welcome to my webstie
 
 url: http://alysmurray.me/
 baseurl: ""
@@ -23,8 +23,7 @@ navigation:
 
 
 social:
-   github: missalys20
-   twitter: alysmurr
+     twitter: alysmurr
    facebook: alys.murray
    email: hello@alysmurray.me
 
