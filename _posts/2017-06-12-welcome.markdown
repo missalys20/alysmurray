@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome"
+date:   2017-06-12
+---
+
+### Welcome to my new blog 
+
+Hello and welcome.
